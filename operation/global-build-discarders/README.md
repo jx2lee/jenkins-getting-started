@@ -29,10 +29,10 @@
 * [x] Job 생성
   * 개인 git repo clone 하는 간단한 작업
 * [x] Global Build Discarders 설정
-  * ![](./images/global-build-discarders-001.png)
+  * ![](image/global-build-discarders-001.png)
   * 빌드 이력 유지 기간: 10, 보관할 최대갯수: 5
 * [x] Build 6 번 수행
-  * ![](./images/global-build-discarders-002.png)
+  * ![](image/global-build-discarders-002.png)
 * [x] Job directory 확인
 
 
@@ -78,7 +78,7 @@ pipeline {
 * [x] Global Build Discarders 설정
   * 빌드 이력 유지 기간: 10, 보관할 최대갯수: 5
 * [x] Build 6 번 수행
-  * ![](./images/global-build-discarders-003.png)
+  * ![](image/global-build-discarders-003.png)
 * [x] Job directory 확인
 
 ``` bash
@@ -121,7 +121,7 @@ pipeline {
 * [x] Global Build Discarders 설정
   * 빌드 이력 유지 기간: 10, 보관할 최대갯수: 5
 * [x] Build 6 번 수행
-  * ![](./images/global-build-discarders-004.png)
+  * ![](image/global-build-discarders-004.png)
 * [x] Job directory 확인
   * main branch: 처음 수행한 1번 빌드 Job 삭제됨을 확인
   * test001 branch: 처음 수행한 1번 빌드 Job 삭제됨을 확인

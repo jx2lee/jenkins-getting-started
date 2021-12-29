@@ -6,8 +6,10 @@
 
 ## 🚌 Operation
 
-* [Global Build Discarders](https://github.com/jx2lee/jenkins-getting-started/blob/main/operation/global-build-discarders.md)
-* [log4j in jenkins](https://github.com/jx2lee/jenkins-getting-started/blob/main/operation/log4j-in-jenkins.md)
+* [Global Build Discarders](https://github.com/jx2lee/jenkins-getting-started/tree/main/operation/global-build-discarders)
+* [log4j in jenkins](https://github.com/jx2lee/jenkins-getting-started/tree/main/operation/log4j-in-jenkins)
+* [Jenkins Update](https://github.com/jx2lee/jenkins-getting-started/tree/main/operation/update-jenkins)
+* [Jenkins Configuration as a code, Jcasc](https://github.com/jx2lee/jenkins-getting-started/tree/main/operation/configuration-as-a-code)
 
 ## 🚚 Deploy
 

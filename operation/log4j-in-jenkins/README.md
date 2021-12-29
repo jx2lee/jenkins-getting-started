@@ -23,8 +23,8 @@ groovy.lang.MissingPropertyException: No such property: org for class: Script1
 
 ### Jenkins 에서 script console 수행 결과
 
-![](./images/log4j-in-jekins-001.png)
-![](./images/log4j-in-jekins-002.png)
+![](image/log4j-in-jekins-001.png)
+![](image/log4j-in-jekins-002.png)
 
 #### 모두 오류 발생 -> log4j 을 사용하는 플러그인 존재 X!
 
